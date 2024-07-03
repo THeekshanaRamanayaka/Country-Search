@@ -78,10 +78,6 @@ function searchCountry(){
      
             img.innerHTML=`<img src="${obj.flags.png}" alt="">`
         })
-        console.log(data);
-
-
-
-    
+        console.log(data);    
     })
 }
